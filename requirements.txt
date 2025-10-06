@@ -1,3 +1,6 @@
 pyTelegramBotAPI
-python-dotenv
+feedparser
+gTTS
 requests
+openai
+python-dotenv
